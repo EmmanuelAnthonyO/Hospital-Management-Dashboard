@@ -1,11 +1,12 @@
 <img width="1181" height="666" alt="image" src="https://github.com/user-attachments/assets/5f871f38-96f0-41af-9da2-58ba14ba54a1" />
 
--->
+
 ***
 
 This healthcare management dashboard, built on the Power Platform, provides a centralized view of hospital operations and patient engagement. The solution is designed with a clean, intuitive interface to support both administrative staff and medical practitioners in making data-driven decisions.
 
-##Key features include:
+Key features include:
+***
 
 Hospital Overview Metrics: Displays the total number of staff , patients, and rooms for quick insights into organizational capacity.
 
